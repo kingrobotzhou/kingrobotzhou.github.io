@@ -16,10 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/kingrobot.pdf",title: "CV",icon: home}
+  - {file: "/kingrobot.pdf",title: "CV"}
   - {file: "index.html",title: "Home"}
-  - {file: "README.md",title: "About",icon}
-  - {title: "Blog",file: "/Blog.md"}
+  - {file: "README.md",title: "About"}
+  - {file: "/Blog.md",title: "Blog"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "kingrobot@protonmail.com"}
