@@ -16,6 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "kingrobot.pdf",title: "CV",icon: home}
   - {file: "index.html",title: "Home"}
   - {file: "README.md",title: "About",icon}
 
